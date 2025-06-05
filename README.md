@@ -4,6 +4,7 @@
 ## TD3D: Top-Down Beats Bottom-Up in 3D Instance Segmentation
 
 **News**:
+ * :cry: June, 2025. Original repo with [140+](https://web.archive.org/web/20240906194458/https://github.com/SamsungLabs/td3d) :star: was deleted from `SamsungLabs/td3d`. Unfortunately, checkponits are currently unavailable.
  * :fire: February 6, 2023. We achieved SOTA results on the ScanNet test subset (mAP@25).
  * :fire: February 2023. The source code has been published.
  
@@ -20,7 +21,7 @@ This repository contains an implementation of TD3D, a 3D instance segmentation m
 > https://arxiv.org/abs/2302.02871
 
 > 
-<p align="center"><img src="resources/td3d.png" alt="drawing" width="60%"/></p>
+<p align="center"><img src="resources/td3d.png" alt="drawing" width="90%"/></p>
 
 ### Installation
 For convenience, we provide a [Dockerfile](docker/Dockerfile).
@@ -79,7 +80,7 @@ python tools/test.py configs/td3d_is/td3d_is_scannet-3d-18class.py \
 
 ### Examples
 
-<p align="center"><img src="resources/td3d_examples.jpg" alt="drawing" width="70%"/></p>
+<p align="center"><img src="resources/td3d_examples.jpg" alt="drawing" width="90%"/></p>
 
 ### Citation
 
