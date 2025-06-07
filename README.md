@@ -4,7 +4,7 @@
 ## TD3D: Top-Down Beats Bottom-Up in 3D Instance Segmentation
 
 **News**:
- * :cry: June, 2025. Original repo with [140+](https://web.archive.org/web/20240906194458/https://github.com/SamsungLabs/td3d) :star: was deleted from `SamsungLabs/td3d`. Unfortunately, checkponits are currently unavailable.
+ * :cry: June, 2025. Original repo with [130+](https://web.archive.org/web/20240906194458/https://github.com/SamsungLabs/td3d) :star: was deleted from `SamsungLabs/td3d`. Unfortunately, checkponits are currently unavailable.
  * :fire: February 6, 2023. We achieved SOTA results on the ScanNet test subset (mAP@25).
  * :fire: February 2023. The source code has been published.
  
